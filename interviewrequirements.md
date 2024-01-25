@@ -4,7 +4,7 @@ python on django framework
 
 html css javascript framework if required
 
-api soap or rest
+api( soap or restapi) restapi preferring 
 
 design patterns
 
@@ -16,7 +16,7 @@ aws
 
 sql (mysql)
 
-java
+java (optional you can show if you have worked on it)
 
 unix
 
